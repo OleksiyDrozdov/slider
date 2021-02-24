@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon_prev</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MODULE-/-COMMON-/-CAROUSEL-/-Desktop" transform="translate(-682.000000, -529.000000)" fill="#0028FF" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(676.000000, 520.000000)">
+                <g id="ICONS-/-arrow-left">
+                    <path d="M19,9 L26.0710678,16.0710678 L19,23.1421356 L17.5857864,21.7279221 L22.242,17.071 L6,17.0710678 L6,15.0710678 L22.242,15.071 L17.5857864,10.4142136 L19,9 Z" id="Combined-Shape" transform="translate(16.035534, 16.071068) scale(-1, 1) translate(-16.035534, -16.071068) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

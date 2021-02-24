@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+.slider-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.slider-wrap__picture {
+  width: 70vw;
+  padding: 20px 80px 20px 80px;
+}
+
+.arrow-wrap {
+  width: 208px;
+  height: 14px;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+.slider-wrap__next {
+  vertical-align: 1px;
+}
+
+.arrow {
+  padding: 10px 40px 10px 40px;
+}
